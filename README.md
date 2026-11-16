@@ -8,7 +8,7 @@ Here you'll find my projects, experiments, and things I'm learning along the way
 
 - ⚙️ Interested in backend engineering, distributed systems, and API performance
 - 🤖 Building with LLMs, RAG, and real-time data pipelines
-- 🧩 **LeetCode Knight · Codeforces Specialist · Kaggle Expert**
+- 🧩 **LeetCode Knight · Kaggle Expert**
 - ✍️ Sharing what I learn on [Medium](https://medium.com/@adrshn2401)
 - 📫 Reach me at [adarsh78050@gmail.com](mailto:adarsh78050@gmail.com)
 
